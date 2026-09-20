@@ -32,7 +32,7 @@ Siga os passos abaixo para testar o projeto na sua própria máquina:
 
 1. **Clone este repositório**
    
-   git clone [https://github.com/SEU_USUARIO/landing-page-personal.git](https://github.com/SEU_USUARIO/landing-page-personal.git)
+   git clone https://github.com/victor-geyson/landing-page-personal-trainer [https://github.com/victor-geyson/landing-page-personal-trainer]
 Acesse a pasta do projeto
 
 2. **Instale as dependências**
